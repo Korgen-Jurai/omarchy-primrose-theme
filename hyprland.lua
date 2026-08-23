@@ -22,8 +22,8 @@ hl.config({
     },
   },
   decoration = {
-    rounding = 0,
-    rounding_power = 0,
+    rounding = 22,
+    rounding_power = 1,
   },
   animations = {
     enabled = true,
