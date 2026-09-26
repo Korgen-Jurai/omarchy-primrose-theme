@@ -15,7 +15,7 @@ omarchy theme install https://github.com/Korgen-Jurai/omarchy-primrose-theme.git
 ## What's included
 
 - Terminal palette (`colors.toml`) — drives Alacritty, Kitty, Foot, Ghostty, btop, VS Code, Obsidian, and more via Omarchy's built-in templates
-- Hyprland gaps/borders/rounding (`hyprland.conf`, `hyprland.lua`)
+- Hyprland gaps/borders/rounding (`hyprland.lua`)
 - Icon theme pointer (`icons.theme` → Yaru-red-dark)
 - Wallpaper (`backgrounds/1-primrose-dreams.jpg`)
 

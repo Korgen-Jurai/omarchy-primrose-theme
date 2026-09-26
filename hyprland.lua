@@ -1,5 +1,3 @@
--- Source: omarchy-primrose-theme/hyprland.conf
-
 local activeBorderColor = {
   colors = { "rgba(c1505cee)", "rgba(5c7fb8ee)" },
   angle = 45,
